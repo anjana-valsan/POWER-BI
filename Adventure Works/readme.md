@@ -1,5 +1,5 @@
 # AdventureWorks Sales & Customer Insights Dashboard
-![Dashboard Demo](dashboard.gif)
+![Dashboard Demo](https://github.com/anjana-valsan/POWER-BI/blob/main/Adventure%20Works/AdventureWorksReportVideo.gif)
 ## 📌 Project Overview
 
 A Microsoft Power BI business intelligence dashboard built for **AdventureWorks**, a fictional global manufacturing company specializing in cycling equipment and accessories.
