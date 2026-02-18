@@ -1,5 +1,5 @@
 # ✈️ High Cloud Airlines Analytics Dashboard
-
+![Dashboard Demo](https://github.com/anjana-valsan/POWER-BI/blob/main/Airline%20Analysis/HighCloudAirlines_video.gif)
 ## 📌 Executive Summary
 
 An end-to-end airline performance analytics dashboard built to uncover traffic trends, seasonal demand patterns, carrier efficiency, and route-level performance insights.  
